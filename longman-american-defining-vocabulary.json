@@ -1,0 +1,12600 @@
+[
+  {
+    "word": "a",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "abbreviation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ability",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "able",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "about",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "above",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "abroad",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "absence",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "absent",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "accept",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "acceptable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "accident",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "according (to)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "account",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "achieve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "acid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "across",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "act",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "action",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "active",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "activity",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "actor",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "actress",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "actual",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "actually",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "add",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "addition",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "address",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "adjective",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "admiration",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "admire",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "admit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "adult",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "advanced",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "advantage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "adventure",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "adverb",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "advertise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "advertisement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "advice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "advise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "affair",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "affect",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "afford",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "afraid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "after",
+    "word_classes": [
+      "adv.",
+      "conj.",
+      "prep."
+    ]
+  },
+  {
+    "word": "afternoon",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "afterward",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "again",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "against",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "age",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "ago",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "agree",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "agreement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ahead",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "aim",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "air",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "airplane",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "airport",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "alcohol",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "alive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "all",
+    "word_classes": [
+      "adv.",
+      "pron.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "allow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "almost",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "alone",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "along",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "alphabet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "already",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "also",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "although",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "always",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "among",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "amount",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "amuse",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "amusement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "amusing",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "an",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ancient",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "and",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anger",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "angle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "angry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "animal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "announce",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "announcement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "annoy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "another",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "answer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anxiety",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anxious",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "any",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anymore",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anyone",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anything",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "anywhere",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "apart",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "apartment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "appear",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "appearance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "apple",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "appropriate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "approval",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "approve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "area",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "argue",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "argument",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "arm",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "army",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "around",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "arrange",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "arrangement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "arrival",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "arrive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "art",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "article",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "artificial",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "artist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "as",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ash",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ashamed",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ask",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "asleep",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "association",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "at",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "atom",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attach",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attack",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attempt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attention",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attitude",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attract",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "attractive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "authority",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "available",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "average",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "avoid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "awake",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "away",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "awkward",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "baby",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "back",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "n."
+    ]
+  },
+  {
+    "word": "background",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "backward(s)",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "bad",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "bag",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bake",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "balance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ball",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "band",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bank",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bar",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "barely",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "base",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "baseball",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "basic",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "basket",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "basketball",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bath",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bathtub",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "battle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "be",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beach",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beak",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beam",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bean",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bear",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beard",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "beat",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "beautiful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beauty",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "because",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "become",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bed",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "beer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "before",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "begin",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beginning",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "behave",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "behavior",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "behind",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "belief",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "believe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bell",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "belong",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "below",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "belt",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beneath",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "berry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beside(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "best",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "n."
+    ]
+  },
+  {
+    "word": "better",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "between",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "beyond",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "bicycle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "big",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "bill",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bird",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "birth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bitter",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "black",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "blade",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "blame",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bleed",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "blind",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "block",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "blood",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "blow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "blue",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "board",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "boat",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "body",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "boil",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bomb",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bone",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "book",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "boot",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "border",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bored",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "boring",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "born",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "borrow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "both",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bottle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bottom",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bowl",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "box",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "boy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "brain",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "branch",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "brave",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "bread",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "break",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "breakfast",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "breast",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "breath",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "breathe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "breed",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "brick",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bridge",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bright",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "bring",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "broad",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "broadcast",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "brother",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "brown",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "brush",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bucket",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "build",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "building",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bullet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bunch",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "burn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "burst",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bury",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "bus",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "bush",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "business",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "busy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "but",
+    "word_classes": [
+      "conj."
+    ]
+  },
+  {
+    "word": "butter",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "button",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "buy",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "by",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cake",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "calculate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "call",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "calm",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "camera",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "camp",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "can",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "candy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cap",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "capital",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "car",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "card",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "care",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "careful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "careless",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "carriage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "carry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "case",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "castle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "catch",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "cattle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cause",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ceiling",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "celebrate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cell",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "center",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "centimeter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "central",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "century",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ceremony",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "certain",
+    "word_classes": [
+      "adj.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "chain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chair",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "chance",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "change",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "character",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "charge",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chase",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "cheap",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cheat",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "check",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "cheek",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cheerful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cheese",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chemical",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chemistry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chew",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chicken",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "chief",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "child",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "children",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chin",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "chocolate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "choice",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "choose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "church",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cigarette",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "circle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "circular",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "citizen",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "city",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "claim",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "class",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "clay",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "clean",
+    "word_classes": [
+      "adv.",
+      "v."
+    ]
+  },
+  {
+    "word": "clear",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "clerk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "clever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cliff",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "climb",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "clock",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "close",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "v."
+    ]
+  },
+  {
+    "word": "cloth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "clothes",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "clothing",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cloud",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "club",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "coal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "coast",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "coat",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "coffee",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "coin",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cold",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "collar",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "collect",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "college",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "color",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "comb",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "combination",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "combine",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "come",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "comfort",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "comfortable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "command",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "committee",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "common",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "communicate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "communication",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "company",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "compare",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "comparison",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "compete",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "competition",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "competitor",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "complain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "complaint",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "complete",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "completely",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "complicated",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "compound",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "computer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "concern",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "concerning",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "concert",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "condition",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "confidence",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "confident",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "confuse",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "connect",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "connection",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "conscious",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "consider",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "consist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "container",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "continue",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "continuous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "contract",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "control",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "convenient",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "conversation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cook",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "cookie",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cool",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "copy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "corn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "corner",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "correct",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "cost",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cotton",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cough",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "could",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "council",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "country",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "courage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "course",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "court",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cover",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cow",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "crack",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "crash",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "crazy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cream",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "creature",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "crime",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "criminal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "criticism",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "criticize",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "crop",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cross",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "crowd",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cruel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "crush",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "cry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cup",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "cupboard",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cure",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "curl",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "current",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "curtain",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "curve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "customer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "cut",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "daily",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "damage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "danger",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dangerous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dark",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "date",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "daughter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "day",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dead",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "deal",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "deal with",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "death",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "debt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "decay",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "deceit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "deceive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "decide",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "decision",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "decorate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "decoration",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "decrease",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "deep",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "defeat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "defense",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "defend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "definite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "degree",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "delay",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "deliberate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "delicate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "deliver",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "demand",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "department",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "depend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dependent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "depth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "describe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "description",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "desert",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "deserve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "design",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "desirable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "desire",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "desk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "despite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "destroy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "destruction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "detail",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "determination",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "determined",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "develop",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dictionary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "die",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "difference",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "different",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "difficult",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "difficulty",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dig",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "dinner",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dip",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "direct",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "direction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dirt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dirty",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "disappoint",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "discover",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "discovery",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "discuss",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "discussion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "disease",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "disgusting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dish",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "dismiss",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "distance",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "distant",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "divide",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "do",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "doctor",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "document",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "dog",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "dollar",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "door",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "double",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "doubt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "down",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "draw",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "drawer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dream",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dress",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "drink",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "drive",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "drop",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "drug",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "drum",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "drunk",
+    "word_classes": [
+      "past part.",
+      "adj."
+    ]
+  },
+  {
+    "word": "dry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "duck",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "dull",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "during",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "dust",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "duty",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "each",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "eager",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ear",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "early",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "earn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "earth",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "east",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "eastern",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "easy",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "eat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "economic",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "edge",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "educate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "educated",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "education",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "effect",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "effective",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "effort",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "egg",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "eight",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "eighth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "either",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "elbow",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "elect",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "election",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "electric",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "electricity",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "electronic",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "else",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "embarrass",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "emotion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "emphasize",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "employ",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "employer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "employment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "empty",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "enclose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "encourage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "end",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "enemy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "energy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "engine",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "engineer",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "enjoy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "enjoyable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "enjoyment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "enough",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "enter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "entertain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "entertainment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "entrance",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "envelope",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "environment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "equal",
+    "word_classes": [
+      "adj.",
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "equipment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "escape",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "especially",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "establish",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "even",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "evening",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "event",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "every",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "everyone",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "everything",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "everywhere",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "evil",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "exact",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "exactly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "examination",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "examine",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "example",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "excellent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "except",
+    "word_classes": [
+      "conj.",
+      "prep."
+    ]
+  },
+  {
+    "word": "exchange",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "excite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "exciting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "excuse",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "exercise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "exist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "existence",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "expect",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "expensive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "experience",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "explain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "explanation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "explode",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "explosion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "explosive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "express",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "expression",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "extreme",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "eye",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "face",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fact",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "factory",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fail",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "failure",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "faint",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "fair",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "fairly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "faith",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "faithful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fall",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "false",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "familiar",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "family",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "famous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "far",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "farm",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "farmer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "farther",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "farthest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fashion",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "fashionable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fast",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "fasten",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "father",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "fault",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "favorable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "favorite",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "fear",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "feather",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "feature",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "feed",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "feel",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "feeling(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "female",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fence",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "fever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "few",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "field",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "fierce",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fifth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fight",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "figure",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "fill",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "film",
+    "word_classes": [
+      "v.",
+      "n."
+    ]
+  },
+  {
+    "word": "final",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "finally",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "financial",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "find",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "find out",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fine",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "finger",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "finish",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fire",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "firm",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "first",
+    "word_classes": [
+      "adv.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "fish",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fit",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "five",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fix",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "flag",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "flame",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "flash",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "flat",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "flesh",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "flight",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "float",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "flood",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "floor",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "flour",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "flow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "flower",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "fly",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "fold",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "follow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "food",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "foot",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "football",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "for",
+    "word_classes": [
+      "prep."
+    ]
+  },
+  {
+    "word": "forbid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "force",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "foreign",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "forest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "forever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "forget",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "forgive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fork",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "form",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "formal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "former",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fortunate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "forward(s)",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "four(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "frame",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "free",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "freedom",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "freeze",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "frequent",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "fresh",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "friend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "friendly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "frighten",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "frightening",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "from",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "front",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "fruit",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "full",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "fun",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "funeral",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "funny",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "fur",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "furniture",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "further",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "future",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gain",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "gallon",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "game",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "garage",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "garden",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gas",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "gasoline",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gate",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "gather",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "general",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "generally",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "generous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gentle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "get",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gift",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "girl",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "give",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "glad",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "glass",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "glue",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "go",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "goat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "god",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "God",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gold",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "good",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "goodbye",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "goods",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "govern",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "government",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "graceful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grade",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gradual",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gram",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grammar",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grand",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "grandfather",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grandmother",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grandparent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grass",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "grateful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "grave",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "gray",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "great",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "green",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "greet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "greeting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ground",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "group",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "grow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "growth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "guard",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "guess",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "guest",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "guide",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "guilty",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "gun",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "habit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hair",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "half",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hall",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hammer",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "hand",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "handle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hang",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "happen",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "happy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hard",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hardly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "harm",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "harmful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hate",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "hatred",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "have",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "he",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "head",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "health",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "healthy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hear",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "heart",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "heat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "heaven",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "heavy",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "heel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "height",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hello",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "help",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "helpful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "her(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "here",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "herself",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hide",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "high",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "highschool",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hill",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "him",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "himself",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "his",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "historical",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "history",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hit",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "hold",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hole",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "holiday",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hollow",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "holy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "home",
+    "word_classes": [
+      "adv.",
+      "n."
+    ]
+  },
+  {
+    "word": "honest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "honor",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "hook",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "hope",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hopeful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "horn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "horse",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "hospital",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hot",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "hotel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hour",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "house",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "how",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "human",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "humorous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "humor",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hundred(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hungry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hunt",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "hurry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "hurt",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "husband",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "ice",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "idea",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "if",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ignore",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ill",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "illegal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "illness",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "image",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "imaginary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "imagination",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "imagine",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "immediate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "immediately",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "importance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "important",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "impressive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "improve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "improvement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "in",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "inch",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "include",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "including",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "income",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "increase",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "independent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "indoor(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "industrial",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "industry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "infect",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "infection",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "infectious",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "influence",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "inform",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "information",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "injure",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "injury",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ink",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "inner",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "insect",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "inside",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "instead",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "institution",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "instruction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "instrument",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "insult",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "insurance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "insure",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "intelligent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "intelligence",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "intend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "intention",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "interest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "interesting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "international",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "interrupt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "into",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "introduce",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "introduction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "invent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "invitation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "invite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "involve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "inward(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "iron",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "island",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "it",
+    "word_classes": [
+      "pron."
+    ]
+  },
+  {
+    "word": "its",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "itself",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "jaw",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "jewel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "jewelry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "job",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "join",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "joint",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "joke",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "judge",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "judgment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "juice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "jump",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "just",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "justice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "keep",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "key",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "kick",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "kill",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "kilogram",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "kilometer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "kind",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "king",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "kiss",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "kitchen",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "knee",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "kneel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "knife",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "knock",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "knot",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "know",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "knowledge",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lack",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lady",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lake",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lamb",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lamp",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "land",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "language",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "large",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "last",
+    "word_classes": [
+      "adv.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "late",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lately",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "laugh",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "laughter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "law",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lawyer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lay",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "layer",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "lazy",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "lead/led",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "leaf",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "lean",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "learn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "least",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "leather",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "leave",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "left",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "leg",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "legal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "length",
+    "word_classes": [
+      "adv.",
+      "pron."
+    ]
+  },
+  {
+    "word": "less",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lesson",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "let",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "let go of",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "let out",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "letter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "level",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "library",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lie",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lie down",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "life",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lift",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "light",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "like",
+    "word_classes": [
+      "prep.",
+      "v."
+    ]
+  },
+  {
+    "word": "likely",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "limit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "line",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "lion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lip",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "liquid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "list",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "listen",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "literature",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "liter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "little",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "live",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "load",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "loaf",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "local",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "lock",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lonely",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "long",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "look",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "look for",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "loose",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "lose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "loss",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lot",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "loud",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "love",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "low",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "lower",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "loyal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "loyalty",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "luck",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "lucky",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "lung",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "machine",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "machinery",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "magazine",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "magic",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mail",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "main",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "make",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "make into",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "make up",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "male",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "man",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "manage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "manager",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "manner",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "many",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "map",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "march",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mark",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "market",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "marriage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "married",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "marry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mass",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "match",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "material",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "mathematics",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "matter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "may",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "me",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "meal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mean",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "meaning",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "means",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "measure",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "meat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "medical",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "medicine",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "meet",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "meeting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "melt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "member",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "memory",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mental",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mention",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "mess",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "message",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "messy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "metal",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "meter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "method",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "middle",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "might",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "mile",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "military",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "milk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "million(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mind",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mine",
+    "word_classes": [
+      "n.",
+      "pron."
+    ]
+  },
+  {
+    "word": "mineral",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "minister",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "minute",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "mirror",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "miss",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "mist",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "mistake",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mix",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "mixture",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "model",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "modern",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "moment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "money",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "monkey",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "month",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "monthly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mood",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "moon",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "moral",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "more",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "morning",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "most",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mother",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "motor",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "mountain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mouse",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mouth",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "move",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "movement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "movie",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "much",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mud",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "multiply",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "murder",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "muscle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "music",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "musician",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "must",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "my",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mysterious",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "mystery",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nail",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "name",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "narrow",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "nasty",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "national",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "natural",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nature",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "navy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "near",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "nearly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "neat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "necessary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "neck",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "need",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "needle",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "negative",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "neither",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nerve",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "nervous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nest",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "net",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "network",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "never",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "new",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "news",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "newspaper",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "next",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "nice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "night",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nine",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ninth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "no",
+    "word_classes": [
+      "adv.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "noise",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "none",
+    "word_classes": [
+      "pron."
+    ]
+  },
+  {
+    "word": "nonsense",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "no one",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nor",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "normal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "north",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "northern",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nose",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "not",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "note",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nothing",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "notice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "noun",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "now",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nowhere",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "number",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "nurse",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "nut",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "obey",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "object",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "obtain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "occasion",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "ocean",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "o’clock",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "odd",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "of",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "off",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "offense",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "offend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "offensive",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "offer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "office",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "officer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "official",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "often",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "oil",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "old",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "old-fashioned",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "on",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "once",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "one",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "onion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "only",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "onto",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "open",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "operate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "operation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "opinion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "opponent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "opportunity",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "oppose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "as opposed to",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "opposite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "opposition",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "or",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "orange",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "order",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ordinary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "organ",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "organize",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "organization",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "origin",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "original",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "other",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ought",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "our(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "out",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "outdoor(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "outer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "outside",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "over",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "owe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "own",
+    "word_classes": [
+      "determiner"
+    ]
+  },
+  {
+    "word": "owner",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "oxygen",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pack",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "package",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "page",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pain",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "painful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "paint",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "painting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pair",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pale",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "pan",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pants",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "paper",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "parallel",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "parent",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "park",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "part",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "particular",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "partly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "partner",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "party",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pass",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "passage",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "passenger",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "past",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "path",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "patience",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "patient",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "pattern",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pause",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pay",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "payment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "peace",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "peaceful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pen",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pencil",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "people",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pepper",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "per",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "perfect",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "perform",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "performance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "perhaps",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "period",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "permanent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "permission",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "person",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "personal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "persuade",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pet",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "photograph",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "phrase",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "physical",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "piano",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pick",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "pick up",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "picture",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "piece",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pig",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pile",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pilot",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pin",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pink",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "pipe",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pity",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "place",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "plain",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "plan",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "plane",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "plant",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "plastic",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "plate",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "play",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pleasant",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "please",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pleased",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pleasure",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "plenty",
+    "word_classes": [
+      "pron."
+    ]
+  },
+  {
+    "word": "plural",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pocket",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "poem",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "poet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "poetry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "point",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pointed",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "poison",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "poisonous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pole",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "police",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "polish",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "polite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "political",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "politician",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "politics",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pool",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "poor",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "popular",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "population",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "port",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "position",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "positive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "possess",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "possession",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "possible",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "possibly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "possibility",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "post",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pot",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "potato",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pound",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pour",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "powder",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "power",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "powerful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "practical",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "practice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "praise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pray",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prayer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prefer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "preparation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prepare",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "present",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "preserve",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "president",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "press",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "pressure",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "pretend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pretty",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "prevent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "previous",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "previously",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "price",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "priest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prince",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "principle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "print",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prison",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prisoner",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "private",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "prize",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "probably",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "problem",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "process",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "produce",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "product",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "production",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "profession",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "profit",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "program",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "progress",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "promise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pronounce",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pronunciation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "proof",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "property",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "proposal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "protect",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "protection",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "protective",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "protest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "proud",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "prove",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "provide",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "public",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "publicly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pull",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pump",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "punish",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "punishment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "pure",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "purple",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "purpose",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "push",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "put",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "quality",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "quantity",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "quarrel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "quarter",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "queen",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "question",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "quick",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "quiet",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "rabbit",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "race",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "radio",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "railroad",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "raise",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "range",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "rank",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "rapid",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "rare",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rat",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "rate",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "rather",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "raw",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "reach",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "react",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "reaction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "read",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "ready",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "real",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "realize",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "really",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "reason",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "reasonable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "receive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "recent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "recently",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "recognize",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "record",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "red",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "reduce",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "reduction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "refusal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "refuse",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "regard",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "regular",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "related",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "relative",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "relation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "relationship",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "relax",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "religion",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "religious",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "remain",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "remark",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "remember",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "remind",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "remove",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "rent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "repair",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "repeat",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "reply",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "report",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "represent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "representative",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "request",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "respect",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "responsible",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "restaurant",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "restrict",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "result",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "return",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "reward",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rich",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ride",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "right",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "n."
+    ]
+  },
+  {
+    "word": "ring",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ripe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "risk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "river",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "road",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rob",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rock",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "roll",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "romantic",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "roof",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "room",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "root",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "rope",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "rose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rough",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "round",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "row",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "royal",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "rub",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "rubber",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rude",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ruin",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "rule",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ruler",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "run",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "rush",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "sad",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "safe",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "safety",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sail",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "salary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sale",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "salt",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "same",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sand",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "satisfaction",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "satisfactory",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "satisfy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "save",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "say",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "scale",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "scatter",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "scene",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "school",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "science",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "scientific",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "scientist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "scissors",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "screen",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "screw",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sea",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "search",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "season",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "seat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "second",
+    "word_classes": [
+      "adv.",
+      "n.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "secrecy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "secret",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "secretary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "see",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "seed",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "seem",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "seize",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sell",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "send",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sensation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sense",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sensible",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sensitive",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sentence",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "separate",
+    "word_classes": [
+      "adv.",
+      "v."
+    ]
+  },
+  {
+    "word": "series",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "serious",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "seriously",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "servant",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "serve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "service",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "set",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "settle",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "seven(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "several",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "severe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sew",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sex",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sexual",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shade",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shadow",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "shake",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shall",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shame",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "shape",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "share",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sharp",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "she",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sheep",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sheet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shelf",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shell",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "shelter",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shine",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "shiny",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ship",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "shirt",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shock",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "shoe",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "shoot",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "shop",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shore",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "short",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "shot",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "should",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shoulder",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "shout",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "show",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "shut",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "shy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sick",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "sickness",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "side",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sideways",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sight",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sign",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "signal",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "silence",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "silent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "silk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "silly",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "silver",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "similar",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "similarity",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "simple",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "since",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sincere",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sing",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "single",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "singular",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sink",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "sister",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "situation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "six(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "size",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "skill",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "skillful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "skin",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "skirt",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sky",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "slave",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sleep",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "slide",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "slight",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "slip",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "slippery",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "slope",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "slow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "small",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "smart",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "smell",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "smile",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "smoke",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "smooth",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "snake",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "snow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "so",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "soap",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "social",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "society",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sock",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "soft",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "soil",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "soldier",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "solid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "solution",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "solve",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "some",
+    "word_classes": [
+      "pron.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "somehow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "someone",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "something",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sometimes",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "somewhere",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "son",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "song",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "soon",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sore",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "sorrow",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sorry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sort",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "soul",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sound",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "soup",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sour",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "south",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "southern",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "space",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "spade",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "speak",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "special",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "specific",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "speech",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "speed",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "spell",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "spend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "spin",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "spirit",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "split",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "spoil",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "spoon",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sport(s)",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "spot",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "spread",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "spring",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "square",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "stage",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "stair",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stamp",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stand",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "standard",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "star",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "start",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "state",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "statement",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "station",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "stay",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "steady",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "steal",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "steam",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "steel",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "steep",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "stem",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "step",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stick",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sticky",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stiff",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "still",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "sting",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stitch",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stomach",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "stone",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "stop",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "store",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "storm",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "story",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "straight",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "strange",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stranger",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stream",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "street",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "strength",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stretch",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "strict",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "strike",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "string",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "strong",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "structure",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "struggle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "student",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "study",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "stupid",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "style",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "subject",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "substance",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "subtract",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "succeed",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "success",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "successful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "such",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "suck",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "sudden",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "suffer",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sugar",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "suggest",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "suit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "suitcase",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "suitable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sum",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "summer",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "sun",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "supper",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "supply",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "support",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "suppose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sure",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "surface",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "surprise",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "surround",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "swallow",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "swear",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sweep",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "sweet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "swell",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "swim",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "swing",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sword",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sympathetic",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "sympathy",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "system",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "table",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tail",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "take",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "take care of",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "talk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tall",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "taste",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tax",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "taxi",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tea",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "teach",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "team",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tear",
+    "word_classes": [
+      "v.",
+      "n."
+    ]
+  },
+  {
+    "word": "technical",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "telephone",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "television",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tell",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "temperature",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "temporary",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ten(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tend",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tendency",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tennis",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tense",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "terrible",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "terror",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "test",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "than",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thank",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "that",
+    "word_classes": [
+      "conj.",
+      "pron.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "the",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "theater",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "their(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "them",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "then",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "there",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "therefore",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "these",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "they",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thick",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "thief",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thin",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "thing",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "think",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "third",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "this",
+    "word_classes": [
+      "pron.",
+      "determiner"
+    ]
+  },
+  {
+    "word": "thorough",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "those",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "though",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thought",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thousand(th)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thread",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "threat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "threaten",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "three",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "throat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "through",
+    "word_classes": [
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "throw",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "thumb",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "ticket",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tie",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tight",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "time",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tire",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tired",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tiring",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "title",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "to",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tobacco",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "today",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "toe",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "together",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "toilet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tongue",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tonight",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "too",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tool",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tooth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "top",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "total",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "touch",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tourist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "toward",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tower",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "town",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "toy",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "track",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "trade",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tradition",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "traditional",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "traffic",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "train",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "training",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "translate",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "transparent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "trap",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "travel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "treat",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "treatment",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tree",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tribe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "trick",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "trip",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "tropical",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "trouble",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "truck",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "true",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "trunk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "truth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "trust",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "try",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "tube",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "tune",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "turn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "twice",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "twist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "two",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "type",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "typical",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "ugly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "uncle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "under",
+    "word_classes": [
+      "prep."
+    ]
+  },
+  {
+    "word": "understand",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "underwear",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "undo",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "uniform",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "union",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "unit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "unite",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "universe",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "university",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "unless",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "until",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "up",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "prep."
+    ]
+  },
+  {
+    "word": "upper",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "upright",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "upset",
+    "word_classes": [
+      "v.",
+      "adj."
+    ]
+  },
+  {
+    "word": "upside down",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "upstairs",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "urgent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "us",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "use",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "useful",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "useless",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "usual",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "vacation",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "valley",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "valuable",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "value",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "variety",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "various",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "vegetable",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "vehicle",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "verb",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "very",
+    "word_classes": [
+      "adv."
+    ]
+  },
+  {
+    "word": "victory",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "view",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "violence",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "violent",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "visit",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "voice",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "vote",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "vowel",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "waist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wait",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "wake",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "walk",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wall",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "wander",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "want",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "war",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "warm",
+    "word_classes": [
+      "adj.",
+      "v."
+    ]
+  },
+  {
+    "word": "warmth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "warn",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "warning",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wash",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "waste",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "watch",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "water",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wave",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "way",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "we",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "weak",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wealth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "weapon",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wear",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "weather",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "weave",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "wedding",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "week",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "weekly",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "weigh",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "weight",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "welcome",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "well",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "n."
+    ]
+  },
+  {
+    "word": "west",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "western",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "wet",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "what",
+    "word_classes": [
+      "determiner",
+      "pron."
+    ]
+  },
+  {
+    "word": "whatever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wheat",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wheel",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "when",
+    "word_classes": [
+      "adv.",
+      "conj."
+    ]
+  },
+  {
+    "word": "whenever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "where",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "whether",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "which",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "whichever",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "while",
+    "word_classes": [
+      "conj."
+    ]
+  },
+  {
+    "word": "whip",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "whisper",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "white",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "who",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "whole",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "whose",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "why",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wide",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "width",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wife",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wild",
+    "word_classes": [
+      "adj.",
+      "adv."
+    ]
+  },
+  {
+    "word": "will",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "willing",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "win",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "wind",
+    "word_classes": [
+      "n.",
+      "v."
+    ]
+  },
+  {
+    "word": "window",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wine",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "wing",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "winter",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "wire",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "wise",
+    "word_classes": [
+      "adj."
+    ]
+  },
+  {
+    "word": "wisdom",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wish",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "with",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "within",
+    "word_classes": [
+      "prep."
+    ]
+  },
+  {
+    "word": "without",
+    "word_classes": [
+      "prep."
+    ]
+  },
+  {
+    "word": "woman",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wood",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wooden",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wool",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "word",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "work",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "world",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "worm",
+    "word_classes": [
+      "n."
+    ]
+  },
+  {
+    "word": "worry",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "worse",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "worst",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "worth",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "would",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wound",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wrap",
+    "word_classes": [
+      "v."
+    ]
+  },
+  {
+    "word": "wrist",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "write",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "wrong",
+    "word_classes": [
+      "adj.",
+      "adv.",
+      "n."
+    ]
+  },
+  {
+    "word": "yard",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "year",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "yearly",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "yellow",
+    "word_classes": [
+      "adj.",
+      "n."
+    ]
+  },
+  {
+    "word": "yesterday",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "yet",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "you",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "young",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "your(s)",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "yourself",
+    "word_classes": [
+
+    ]
+  },
+  {
+    "word": "zero",
+    "word_classes": [
+
+    ]
+  }
+]
